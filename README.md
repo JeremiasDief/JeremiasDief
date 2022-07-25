@@ -21,7 +21,7 @@
 
 [Jun/2017 - Presente] Estudante e intusiasta em Python e Data Science
 
-[Mar/2012 - Jun/2017] Técnico de Operação na Petrobras
+[Mar/2012 - Jun/2017] Técnico de Operações na Petrobras
 
 [Ago/2009 - Fev/2012] Analista de Laboratório na Tipler
 
