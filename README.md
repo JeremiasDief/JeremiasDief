@@ -5,10 +5,10 @@
 
 ## About me
 
-👨‍🏫 &nbsp; Cientista de Dados
-💻 &nbsp;Fluente em Python
-📊 &nbsp;Graduado em Engenharia de Produção
-:soccer: Trader Esportivo
+:man_scientist::bar_chart: Cientista de Dados
+:computer: Fluente em Python
+:hammer_and_wrench: Graduado em Engenharia de Produção
+:chart_with_upwards_trend::soccer: Trader Esportivo
 
 <!--
 **JeremiasDief/JeremiasDief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
