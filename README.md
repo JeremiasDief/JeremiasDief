@@ -1,5 +1,13 @@
 # Jeremias Diefenthaler
 
+----------------------------------------------------
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-JeremiasDiefenthaler-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeremiasdiefenthaler/)](https://www.linkedin.com/in/jeremiasdiefenthaler/) 
+[![Gmail Badge](https://img.shields.io/badge/-jeremiasdief@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeremiasdief@gmail.com)](mailto:jeremiasdief@gmail.com)
+
+----------------------------------------------------
+
+
 <!--
 **JeremiasDief/JeremiasDief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
